@@ -1,4 +1,10 @@
-# Hey there, I'm Eric 👋
+
+
+<div align="center">
+    <h1>Hey there, I'm Eric 👋</h1>
+    <img src="./banner.svg">
+</div>
+
 
 <!--
 **ericmckevitt/ericmckevitt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
