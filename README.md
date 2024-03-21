@@ -5,6 +5,14 @@
     <img src="./banner.svg">
 </div>
 
+---
+
+## 📖 About me
+
+* 💻 I'm a Full-Stack Software Engineer
+* 📚 I'm a Computer Science B.S. + M.S. Student at Colorado School of Mines
+* 👨🏼‍🏫 I work as an Adjunct Professor, teaching CSCI 250 at Colorado School of Mines  
+
 
 <!--
 **ericmckevitt/ericmckevitt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
